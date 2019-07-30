@@ -1,12 +1,9 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+This is the Scientific Calculator Developed in JAVA Language and UI/UX
+is designed using JAVA FX
+
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE:Scientific Calculator
+VERSION or DATE: 2014
+AUTHORS: Jawad
